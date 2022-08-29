@@ -1,0 +1,17 @@
+{
+  "name": "com.superslownic.dependency-injection",
+  "version": "1.0.0",
+  "displayName": "Dependency Injection",
+  "description": "",
+  "unity": "2020.3",
+  "author":
+  {
+    "name": "Superslownic",
+    "email": "isuperslownic@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies":
+  {
+    "com.superslownic.reflection-baking" : "1.0.0"
+  }
+}
