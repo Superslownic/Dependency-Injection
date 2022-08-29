@@ -1,0 +1,16 @@
+{
+    "name": "DependencyInjection.Runtime",
+    "rootNamespace": "DependencyInjection",
+    "references": [
+        "GUID:5c8258aa071c40044bc11b6b53b4a272"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

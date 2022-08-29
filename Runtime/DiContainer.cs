@@ -1,8 +1,6 @@
 using System;
 using System.Collections.Generic;
-using Reflection.Baking;
-using UnityEngine;
-using Object = System.Object;
+using ReflectionBaking;
 
 namespace DependencyInjection
 {
