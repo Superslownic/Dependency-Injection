@@ -12,6 +12,6 @@
   "license": "MIT",
   "dependencies":
   {
-    "com.superslownic.reflection-baking" : "1.0.0"
+    "com.superslownic.reflection-baking" : "https://github.com/Superslownic/Reflection-Baking.git"
   }
 }
