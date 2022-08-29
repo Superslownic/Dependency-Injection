@@ -10,8 +10,5 @@
     "email": "isuperslownic@gmail.com"
   },
   "license": "MIT",
-  "dependencies":
-  {
-    "com.superslownic.reflection-baking" : "https://github.com/Superslownic/Reflection-Baking.git"
-  }
+  "dependencies": { }
 }
